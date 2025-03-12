@@ -1,0 +1,15 @@
+D:\github\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex05\bin\Debug\net8.0\Lab13_Ex05.exe
+D:\github\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex05\bin\Debug\net8.0\Lab13_Ex05.deps.json
+D:\github\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex05\bin\Debug\net8.0\Lab13_Ex05.runtimeconfig.json
+D:\github\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex05\bin\Debug\net8.0\Lab13_Ex05.dll
+D:\github\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex05\bin\Debug\net8.0\Lab13_Ex05.pdb
+D:\github\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex05\obj\Debug\net8.0\Lab13_Ex05.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex05\obj\Debug\net8.0\Lab13_Ex05.AssemblyInfoInputs.cache
+D:\github\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex05\obj\Debug\net8.0\Lab13_Ex05.AssemblyInfo.cs
+D:\github\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex05\obj\Debug\net8.0\Lab13_Ex05.csproj.CoreCompileInputs.cache
+D:\github\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex05\obj\Debug\net8.0\Lab13_Ex05.sourcelink.json
+D:\github\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex05\obj\Debug\net8.0\Lab13_Ex05.dll
+D:\github\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex05\obj\Debug\net8.0\refint\Lab13_Ex05.dll
+D:\github\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex05\obj\Debug\net8.0\Lab13_Ex05.pdb
+D:\github\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex05\obj\Debug\net8.0\Lab13_Ex05.genruntimeconfig.cache
+D:\github\Lab13-CSharp-Class-Virtual-Override\Lab13_Ex05\obj\Debug\net8.0\ref\Lab13_Ex05.dll
